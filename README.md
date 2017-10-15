@@ -2,7 +2,7 @@
 
 **Title:** Soil extracellular enzymes are not sensitive to a chaning envionment in the Tibetan grasslands  
 **Authors:** Xin Jing, Xiao Chen, Wen Xiao, Li Lin, Chao Wang, Jin-Sheng He, Biao Zhu  
-**Corresponding author:** Biao Zhu <biaozhu@pku.edu.c>
+**Corresponding author:** Biao Zhu <biaozhu@pku.edu.cn>
 
 **Citation:**  
 N/A
