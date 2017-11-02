@@ -1,0 +1,91 @@
+short.cite,locations,lat,long,alt,MAT,MAP,vege.type,Expt,Expt.treat,enzymes,enz.func,enz.code,units,CK,CK.sd,CK.sd2,CK.se,CK.N,treat,treat.sd,treat.sd2,treat.se,treat.N,sources,notes
+gao2016,Hongyuan,33.1,102.6,3500,1.1,753,alpine meadow,Experiment 2,P,Urease,N cycling,URE,mg NH4-N/g/24h,16.01,,0.68,0.34,4,16.01,,1.02,0.51,4,Figure 3,NaH2PO4 (15 g P/m2/year)
+gao2016,Hongyuan,33.1,102.6,3500,1.1,753,alpine meadow,Experiment 2,P,Acid phosphatase,P cycling,AP,mg phenol/g/24h,4.48,,0.46,0.23,4,4.31,,0.46,0.23,4,Figure 3,NaH2PO4 (15 g P/m2/year)
+gao2016,Hongyuan,33.1,102.6,3500,1.1,753,alpine meadow,Experiment 2,P,Catalase,others,CAT,ml of 0.1 N KMnO4/g/20min,1.46,,0.06,0.03,4,1.53,,0.06,0.03,4,Figure 3,NaH2PO4 (15 g P/m2/year)
+gao2016,Hongyuan,33.1,102.6,3500,1.1,753,alpine meadow,Experiment 2,P,Saccharase,C cycling,SAC,mg glucose/g/24h,20.65,,2.58,1.29,4,20.16,,1.94,0.97,4,Figure 3,NaH2PO4 (15 g P/m2/year)
+jing2014,Haibei,37.6,101.2,3200,-1.1,485,alpine meadow,Experiment 1,warm,"alpha-1,4-glucosidase",C cycling,AG,nmol activity/g soil d.w./h,2.3085,,0.7536,0.3768,4,1.880171,,0.37404,0.18702,4,Figure 3,Infrared heater
+jing2014,Haibei,37.6,101.2,3200,-1.1,485,alpine meadow,Experiment 1,warm,"beta-1,4-glucosidase",C cycling,BG,nmol activity/g soil d.w./h,14.08017261,,2.592686496,1.296343248,4,11.2387057,,0.694891874,0.347445937,4,Figure 3,Infrared heater
+jing2014,Haibei,37.6,101.2,3200,-1.1,485,alpine meadow,Experiment 1,warm,beta-D-cellobiohydrolase,C cycling,CB,nmol activity/g soil d.w./h,3.284509106,,0.765992018,0.382996009,4,2.18175884,,0.3619243,0.18096215,4,Figure 3,Infrared heater
+jing2014,Haibei,37.6,101.2,3200,-1.1,485,alpine meadow,Experiment 1,warm,Phenol oxidase,C cycling,POX,umol activity/g soil d.w./h,7.074899355,,1.766117108,0.883058554,4,10.47982417,,7.190651002,3.595325501,4,Figure 3,Infrared heater
+jing2014,Haibei,37.6,101.2,3200,-1.1,485,alpine meadow,Experiment 1,warm,"beta-1,4-xylosidase",C cycling,BX,nmol activity/g soil d.w./h,4.280785628,,1.935766854,0.967883427,4,3.736844055,,0.856181222,0.428090611,4,Figure 3,Infrared heater
+jing2016,Haibei,37.6,101.2,3200,-1.1,485,alpine meadow,Experiment 2,N,"alpha-1,4-glucosidase",C cycling,AG,nmol activity/g soil d.w./h,2.67,0.25,0.25,,5,2.73,0.36,0.36,,5,Table 4,N 100 kg/hm2/year
+jing2016,Haibei,37.6,101.2,3200,-1.1,485,alpine meadow,Experiment 2,P,"alpha-1,4-glucosidase",C cycling,AG,nmol activity/g soil d.w./h,2.67,0.25,0.25,,5,1.66,0.62,0.62,,5,Table 4,P 50 kg/hm2/year
+jing2016,Haibei,37.6,101.2,3200,-1.1,485,alpine meadow,Experiment 2,NP,"alpha-1,4-glucosidase",C cycling,AG,nmol activity/g soil d.w./h,2.67,0.25,0.25,,5,2.34,0.28,0.28,,5,Table 4,N 100 kg/hm2/year and P 50 kg/hm2/year
+jing2016,Haibei,37.6,101.2,3200,-1.1,485,alpine meadow,Experiment 2,N,"beta-1,4-glucosidase",C cycling,BG,nmol activity/g soil d.w./h,18.73,4.14,4.14,,5,19.74,3.17,3.17,,5,Table 4,N 100 kg/hm2/year
+jing2016,Haibei,37.6,101.2,3200,-1.1,485,alpine meadow,Experiment 2,P,"beta-1,4-glucosidase",C cycling,BG,nmol activity/g soil d.w./h,18.73,4.14,4.14,,5,16.27,3.07,3.07,,5,Table 4,P 50 kg/hm2/year
+jing2016,Haibei,37.6,101.2,3200,-1.1,485,alpine meadow,Experiment 2,NP,"beta-1,4-glucosidase",C cycling,BG,nmol activity/g soil d.w./h,18.73,4.14,4.14,,5,18.41,1.98,1.98,,5,Table 4,N 100 kg/hm2/year and P 50 kg/hm2/year
+jing2016,Haibei,37.6,101.2,3200,-1.1,485,alpine meadow,Experiment 2,N,"beta-1,4-xylosidase",C cycling,BX,nmol activity/g soil d.w./h,3.36,0.72,0.72,,5,3.15,0.4,0.4,,5,Table 4,N 100 kg/hm2/year
+jing2016,Haibei,37.6,101.2,3200,-1.1,485,alpine meadow,Experiment 2,P,"beta-1,4-xylosidase",C cycling,BX,nmol activity/g soil d.w./h,3.36,0.72,0.72,,5,2.47,0.5,0.5,,5,Table 4,P 50 kg/hm2/year
+jing2016,Haibei,37.6,101.2,3200,-1.1,485,alpine meadow,Experiment 2,NP,"beta-1,4-xylosidase",C cycling,BX,nmol activity/g soil d.w./h,3.36,0.72,0.72,,5,2.8,0.52,0.52,,5,Table 4,N 100 kg/hm2/year and P 50 kg/hm2/year
+jing2016,Haibei,37.6,101.2,3200,-1.1,485,alpine meadow,Experiment 2,N,beta-D-cellobiohydrolase,C cycling,CB,nmol activity/g soil d.w./h,2.65,1.07,1.07,,5,2.48,0.61,0.61,,5,Table 4,N 100 kg/hm2/year
+jing2016,Haibei,37.6,101.2,3200,-1.1,485,alpine meadow,Experiment 2,P,beta-D-cellobiohydrolase,C cycling,CB,nmol activity/g soil d.w./h,2.65,1.07,1.07,,5,1.64,0.48,0.48,,5,Table 4,P 50 kg/hm2/year
+jing2016,Haibei,37.6,101.2,3200,-1.1,485,alpine meadow,Experiment 2,NP,beta-D-cellobiohydrolase,C cycling,CB,nmol activity/g soil d.w./h,2.65,1.07,1.07,,5,2.4,0.28,0.28,,5,Table 4,N 100 kg/hm2/year and P 50 kg/hm2/year
+jing2016,Haibei,37.6,101.2,3200,-1.1,485,alpine meadow,Experiment 2,N,"beta-1,4-N-acetyl-glucosaminidase",N cycling,NAG,nmol activity/g soil d.w./h,11.15,4.31,4.31,,5,13.57,5.58,5.58,,5,Table 4,N 100 kg/hm2/year
+jing2016,Haibei,37.6,101.2,3200,-1.1,485,alpine meadow,Experiment 2,P,"beta-1,4-N-acetyl-glucosaminidase",N cycling,NAG,nmol activity/g soil d.w./h,11.15,4.31,4.31,,5,10.36,2.87,2.87,,5,Table 4,P 50 kg/hm2/year
+jing2016,Haibei,37.6,101.2,3200,-1.1,485,alpine meadow,Experiment 2,NP,"beta-1,4-N-acetyl-glucosaminidase",N cycling,NAG,nmol activity/g soil d.w./h,11.15,4.31,4.31,,5,10.26,2.43,2.43,,5,Table 4,N 100 kg/hm2/year and P 50 kg/hm2/year
+jing2016,Haibei,37.6,101.2,3200,-1.1,485,alpine meadow,Experiment 2,N,Acid phosphatase,P cycling,AP,nmol activity/g soil d.w./h,40.12,9.14,9.14,,5,39.71,5.09,5.09,,5,Table 4,N 100 kg/hm2/year
+jing2016,Haibei,37.6,101.2,3200,-1.1,485,alpine meadow,Experiment 2,P,Acid phosphatase,P cycling,AP,nmol activity/g soil d.w./h,40.12,9.14,9.14,,5,31.13,4.16,4.16,,5,Table 4,P 50 kg/hm2/year
+jing2016,Haibei,37.6,101.2,3200,-1.1,485,alpine meadow,Experiment 2,NP,Acid phosphatase,P cycling,AP,nmol activity/g soil d.w./h,40.12,9.14,9.14,,5,34.64,5.32,5.32,,5,Table 4,N 100 kg/hm2/year and P 50 kg/hm2/year
+jing2016,Haibei,37.6,101.2,3200,-1.1,485,alpine meadow,Experiment 2,N,Phenol oxidase,C cycling,POX,umol activity/g soil d.w./h,3.21,1.68,1.68,,5,4.03,0.99,0.99,,5,Table 4,N 100 kg/hm2/year
+jing2016,Haibei,37.6,101.2,3200,-1.1,485,alpine meadow,Experiment 2,P,Phenol oxidase,C cycling,POX,umol activity/g soil d.w./h,3.21,1.68,1.68,,5,3.68,0.95,0.95,,5,Table 4,P 50 kg/hm2/year
+jing2016,Haibei,37.6,101.2,3200,-1.1,485,alpine meadow,Experiment 2,NP,Phenol oxidase,C cycling,POX,umol activity/g soil d.w./h,3.21,1.68,1.68,,5,4.18,2.82,2.82,,5,Table 4,N 100 kg/hm2/year and P 50 kg/hm2/year
+li2011,Fenghuoshan,34.7,92.9,4700,-5.3,270,swamp meadow,Experiment 1,warm,Catalase,others,CAT,umol/min/mg soil,4.26,,0.433012702,0.25,3,4.71,,0.051961524,0.03,3,Table 2,OTC
+li2011,Fenghuoshan,34.7,92.9,4700,-5.3,270,swamp meadow,Experiment 1,warm,Saccharase,C cycling,SAC,umol/min/mg soil,43.42,,2.113101985,1.22,3,45.02,,1.991858429,1.15,3,Table 2,OTC
+li2011,Fenghuoshan,34.7,92.9,4700,-5.3,270,swamp meadow,Experiment 1,warm,Urease,N cycling,URE,umol/min/mg soil,0.41,,0.45033321,0.26,3,0.59,,0.398371686,0.23,3,Table 2,OTC
+li2011,Fenghuoshan,34.7,92.9,4700,-5.3,270,swamp meadow,Experiment 1,warm,Protease,N cycling,PRO,umol/min/mg soil,0.31,,0.398371686,0.23,3,0.36,,0.484974226,0.28,3,Table 2,OTC
+li2011,Fenghuoshan,34.7,92.9,4700,-5.3,270,swamp meadow,Experiment 1,warm,Alkaline phosphatase,P cycling,AP,umol/min/mg soil,79.93,,2.095781477,1.21,3,53.17,,2.182384018,1.26,3,Table 2,OTC
+li2011,Fenghuoshan,34.7,92.9,4700,-5.3,270,alpine meadow,Experiment 1,warm,Catalase,others,CAT,umol/min/mg soil,3.81,,0.519615242,0.3,3,3.99,,0.08660254,0.05,3,Table 2,OTC
+li2011,Fenghuoshan,34.7,92.9,4700,-5.3,270,alpine meadow,Experiment 1,warm,Saccharase,C cycling,SAC,umol/min/mg soil,34.87,,2.286307066,1.32,3,42.89,,2.061140461,1.19,3,Table 2,OTC
+li2011,Fenghuoshan,34.7,92.9,4700,-5.3,270,alpine meadow,Experiment 1,warm,Urease,N cycling,URE,umol/min/mg soil,0.67,,0.415692194,0.24,3,0.44,,0.36373067,0.21,3,Table 2,OTC
+li2011,Fenghuoshan,34.7,92.9,4700,-5.3,270,alpine meadow,Experiment 1,warm,Protease,N cycling,PRO,umol/min/mg soil,0.17,,0.519615242,0.3,3,0.24,,0.433012702,0.25,3,Table 2,OTC
+li2011,Fenghuoshan,34.7,92.9,4700,-5.3,270,alpine meadow,Experiment 1,warm,Alkaline phosphatase,P cycling,AP,umol/min/mg soil,40.94,,2.667358244,1.54,3,21.38,,2.771281292,1.6,3,Table 2,OTC
+liu2011,Hongyuan,33.1,102.6,3500,1.1,753,alpine meadow,Experiment 1,warm,Cellulase,C cycling,CEL,mg/g d,30.89,,1.02,0.51,4,34.64,,2.04,1.02,4,Figure 1,OTC
+liu2011,Hongyuan,33.1,102.6,3500,1.1,753,alpine meadow,Experiment 1,warm,Phenol oxidase,C cycling,POX,mg/g d,0.42,,0.02,0.01,4,0.29,,0.08,0.04,4,Figure 2,OTC
+liu2011,Hongyuan,33.1,102.6,3500,1.1,753,alpine meadow,Experiment 1,warm,Peroxidase,C cycling,PER,mg/g d,1.44,,0.1,0.05,4,1.6,,0.06,0.03,4,Figure 3,OTC
+liu2011,Hongyuan,33.1,102.6,3500,1.1,753,alpine meadow,Experiment 1,warm,Urease,N cycling,URE,mg/g d,1.19,,0.04,0.02,4,0.99,,0.08,0.04,4,Figure 4,OTC
+liu2011,Hongyuan,33.1,102.6,3500,1.1,753,alpine meadow,Experiment 1,warm,Phosphatase,P cycling,AP,mg/g d,2.77,,0.12,0.06,4,3.6,,0.1,0.05,4,Figure 5,OTC
+liu2011,Hongyuan,33.1,102.6,3500,1.1,753,alpine meadow,Experiment 2,NP,Cellulase,C cycling,CEL,mg/g d,30.89,,1.02,0.51,4,24.26,,2.56,1.28,4,Figure 1,"N 6 .00 g/m2, P2O5 2 .49 g/m2, K2O 1 .57 g/m2"
+liu2011,Hongyuan,33.1,102.6,3500,1.1,753,alpine meadow,Experiment 2,NP,Phenol oxidase,C cycling,POX,mg/g d,0.42,,0.02,0.01,4,0.28,,0.02,0.01,4,Figure 2,"N 6 .00 g/m2, P2O5 2 .49 g/m2, K2O 1 .57 g/m2"
+liu2011,Hongyuan,33.1,102.6,3500,1.1,753,alpine meadow,Experiment 2,NP,Peroxidase,C cycling,PER,mg/g d,1.44,,0.1,0.05,4,0.88,,0.14,0.07,4,Figure 3,"N 6 .00 g/m2, P2O5 2 .49 g/m2, K2O 1 .57 g/m2"
+liu2011,Hongyuan,33.1,102.6,3500,1.1,753,alpine meadow,Experiment 2,NP,Urease,N cycling,URE,mg/g d,1.19,,0.04,0.02,4,2.13,,0.18,0.09,4,Figure 4,"N 6 .00 g/m2, P2O5 2 .49 g/m2, K2O 1 .57 g/m2"
+liu2011,Hongyuan,33.1,102.6,3500,1.1,753,alpine meadow,Experiment 2,NP,Phosphatase,P cycling,AP,mg/g d,2.77,,0.12,0.06,4,3.81,,0.1,0.05,4,Figure 5,"N 6 .00 g/m2, P2O5 2 .49 g/m2, K2O 1 .57 g/m2"
+rui2012,Haibei,37.6,101.2,3200,-1.1,485,alpine meadow,Experiment 1,warm,Acid phosphatase,P cycling,AP,ug p-NP/g/h,6.49,,0.8,0.4,4,8.3,,1.2,0.6,4,Figure 4,Infrared heater
+rui2012,Haibei,37.6,101.2,3200,-1.1,485,alpine meadow,Experiment 1,warm,Alkaline phosphatase,P cycling,AP,ug p-NP/g/h,18.09,,4.9,2.45,4,17.09,,1.46,0.73,4,Figure 4,Infrared heater
+sun2016,Haibei,37.6,101.2,3200,-1.1,485,alpine meadow,Experiment 2,N,Alkaline phosphatase,P cycling,AP,mg/g 2h,0.01,,0.00501291,0.002046512,6,0.01,,0.004898979,0.002,6,Figure 1,N 100 kg/hm2/year
+sun2016,Haibei,37.6,101.2,3200,-1.1,485,alpine meadow,Experiment 2,P,Alkaline phosphatase,P cycling,AP,mg/g 2h,0.01,,0.00501291,0.002046512,6,0.01,,0.002962173,0.001209302,6,Figure 1,P 50 kg/hm2/year
+sun2016,Haibei,37.6,101.2,3200,-1.1,485,alpine meadow,Experiment 2,NP,Alkaline phosphatase,P cycling,AP,mg/g 2h,0.01,,0.00501291,0.002046512,6,0.01,,0.0042154,0.00172093,6,Figure 1,N 100 kg/hm2/year and P 50 kg/hm2/year
+sun2016,Haibei,37.6,101.2,3200,-1.1,485,alpine meadow,Experiment 2,N,Urease,N cycling,URE,mg/g 24h,3.1,,1.273734666,0.52,6,2.35,,0.979795897,0.4,6,Figure 2,N 100 kg/hm2/year
+sun2016,Haibei,37.6,101.2,3200,-1.1,485,alpine meadow,Experiment 2,P,Urease,N cycling,URE,mg/g 24h,3.1,,1.273734666,0.52,6,1.5,,0.808331615,0.33,6,Figure 2,P 50 kg/hm2/year
+sun2016,Haibei,37.6,101.2,3200,-1.1,485,alpine meadow,Experiment 2,NP,Urease,N cycling,URE,mg/g 24h,3.1,,1.273734666,0.52,6,1.75,,0.85732141,0.35,6,Figure 2,N 100 kg/hm2/year and P 50 kg/hm2/year
+sun2016,Haibei,37.6,101.2,3200,-1.1,485,alpine meadow,Experiment 2,N,Cellulase,C cycling,CEL,mg/g 72h,1.33,,0.636867333,0.26,6,0.9,,0.538887743,0.22,6,Figure 3,N 100 kg/hm2/year
+sun2016,Haibei,37.6,101.2,3200,-1.1,485,alpine meadow,Experiment 2,P,Cellulase,C cycling,CEL,mg/g 72h,1.33,,0.636867333,0.26,6,1.38,,0.563382641,0.23,6,Figure 3,P 50 kg/hm2/year
+sun2016,Haibei,37.6,101.2,3200,-1.1,485,alpine meadow,Experiment 2,NP,Cellulase,C cycling,CEL,mg/g 72h,1.33,,0.636867333,0.26,6,1.03,,0.685857128,0.28,6,Figure 3,N 100 kg/hm2/year and P 50 kg/hm2/year
+sun2016,Haibei,37.6,101.2,3200,-1.1,485,alpine meadow,Experiment 2,N,Chitinase,N cycling,CHI,mg/g 18h,0.04,,0.043990837,0.017959184,6,0.09,,0.047990004,0.019591837,6,Figure 5,N 100 kg/hm2/year
+sun2016,Haibei,37.6,101.2,3200,-1.1,485,alpine meadow,Experiment 2,P,Chitinase,N cycling,CHI,mg/g 18h,0.04,,0.043990837,0.017959184,6,0.08,,0.051989171,0.02122449,6,Figure 5,P 50 kg/hm2/year
+sun2016,Haibei,37.6,101.2,3200,-1.1,485,alpine meadow,Experiment 2,NP,Chitinase,N cycling,CHI,mg/g 18h,0.04,,0.043990837,0.017959184,6,0.06,,0.047990004,0.019591837,6,Figure 5,N 100 kg/hm2/year and P 50 kg/hm2/year
+sun2016,Haibei,37.6,101.2,3200,-1.1,485,alpine meadow,Experiment 2,N,Saccharase,C cycling,SAC,mg/g 24h,3.74,,1.511106847,0.616906787,6,4.03,,1.632709705,0.666550946,6,Figure 6,N 100 kg/hm2/year
+sun2016,Haibei,37.6,101.2,3200,-1.1,485,alpine meadow,Experiment 2,P,Saccharase,C cycling,SAC,mg/g 24h,3.74,,1.511106847,0.616906787,6,3.68,,0.899691077,0.367297344,6,Figure 6,P 50 kg/hm2/year
+sun2016,Haibei,37.6,101.2,3200,-1.1,485,alpine meadow,Experiment 2,NP,Saccharase,C cycling,SAC,mg/g 24h,3.74,,1.511106847,0.616906787,6,3.92,,1.142046423,0.4662385,6,Figure 6,N 100 kg/hm2/year and P 50 kg/hm2/year
+tian2014,Haibei,37.6,101.2,3200,-1.1,485,alpine meadow,Experiment 2,N,Urease,N cycling,URE,ug N/g soil/24h,449.09,,94.48337155,54.55,3,449.09,,62.97736736,36.36,3,Figure 3,AN-2 NH4NO3 (7.5 g N/m2/year) August
+tian2014,Haibei,37.6,101.2,3200,-1.1,485,alpine meadow,Experiment 2,N,Urease,N cycling,URE,ug N/g soil/24h,449.09,,94.48337155,54.55,3,443.64,,59.8423554,34.55,3,Figure 3,Ni-2 NaNO3  (7.5 g N/m2/year) August
+tian2014,Haibei,37.6,101.2,3200,-1.1,485,alpine meadow,Experiment 2,N,Urease,N cycling,URE,ug N/g soil/24h,449.09,,94.48337155,54.55,3,469.09,,94.48337155,54.55,3,Figure 3,Am (NH4)2SO4  (7.5 g N/m2/year) August
+wang2010,Haibei,37.6,101.2,3200,-1.1,485,Kobresia humilis meadow,Experiment 2,N,Urease,N cycling,URE,mg NH4-N/g,0.23,0.01,0.01,,6,0.43,0.03,0.03,,6,Appendix,N 20 g/m2
+wang2010,Haibei,37.6,101.2,3200,-1.1,485,Kobresia humilis meadow,Experiment 2,N,Protease,N cycling,PRO,mg Tyr/g,5.91,0.53,0.53,,6,7.49,0.52,0.52,,6,Appendix,N 20 g/m2
+wang2010,Haibei,37.6,101.2,3200,-1.1,485,Kobresia humilis meadow,Experiment 2,N,Alkaline phosphatase,P cycling,AP,mg phenol/g,0.52,0.02,0.02,,6,0.86,0.1,0.1,,6,Appendix,N 20 g/m2
+wang2010,Haibei,37.6,101.2,3200,-1.1,485,Kobresia humilis meadow,Experiment 2,N,Saccharase,C cycling,SAC,mg glucose/g,12.03,1.43,1.43,,6,15.99,3.72,3.72,,6,Appendix,N 20 g/m2
+wang2010,Haibei,37.6,101.2,3200,-1.1,485,Kobresia tibetica meadow,Experiment 2,N,Urease,N cycling,URE,mg NH4-N/g,0.49,0.03,0.03,,6,0.51,0.03,0.03,,6,Appendix,N 20 g/m2
+wang2010,Haibei,37.6,101.2,3200,-1.1,485,Kobresia tibetica meadow,Experiment 2,N,Protease,N cycling,PRO,mg Tyr/g,1.08,0.01,0.01,,6,1.11,0.03,0.03,,6,Appendix,N 20 g/m2
+wang2010,Haibei,37.6,101.2,3200,-1.1,485,Kobresia tibetica meadow,Experiment 2,N,Alkaline phosphatase,P cycling,AP,mg phenol/g,0.57,0.04,0.04,,6,0.6,0.1,0.1,,6,Appendix,N 20 g/m2
+wang2010,Haibei,37.6,101.2,3200,-1.1,485,Kobresia tibetica meadow,Experiment 2,N,Saccharase,C cycling,SAC,mg glucose/g,0.61,0.04,0.04,,6,0.65,0.04,0.04,,6,Appendix,N 20 g/m2
+wang2014,Naqu,31.4,101.2,4500,-3,450,alpine meadow,Experiment 1,warm,Urease,N cycling,URE,mg NH3 /g soil,0.23,,0.02,0.01,4,0.26,,0.02,0.01,4,Table 1,OTC
+wang2014,Naqu,31.4,101.2,4500,-3,450,alpine meadow,Experiment 1,warm,Cellulase,C cycling,CEL,mg glucose /g soil,0.64,,0.04,0.02,4,0.62,,0.04,0.02,4,Table 1,OTC
+wang2014,Naqu,31.4,101.2,4500,-3,450,alpine meadow,Experiment 1,warm,Catalase,others,CAT,ml 0.05 N KMnO4/g soil,10.35,,0.8,0.4,4,11.17,,0.96,0.48,4,Table 1,OTC
+wang2014,Naqu,31.4,101.2,4500,-3,450,alpine meadow,Experiment 1,warm,Neutral phosphatase,P cycling,AP,mg phenol /g soil,0.86,,0.02,0.01,4,0.84,,0.02,0.01,4,Table 1,OTC
+wang2014,Haibei,37.6,101.2,3200,-1.1,485,alpine meadow,Experiment 1,warm,Urease,N cycling,URE,mg NH3 /g soil,0.23,,0.02,0.01,4,0.26,,0.02,0.01,4,Table 1,OTC
+wang2014,Haibei,37.6,101.2,3200,-1.1,485,alpine meadow,Experiment 1,warm,Cellulase,C cycling,CEL,mg glucose /g soil,0.63,,0.02,0.01,4,0.63,,0.04,0.02,4,Table 1,OTC
+wang2014,Haibei,37.6,101.2,3200,-1.1,485,alpine meadow,Experiment 1,warm,Catalase,others,CAT,ml 0.05 N KMnO4/g soil,10.74,,1.14,0.57,4,10.83,,0.7,0.35,4,Table 1,OTC
+wang2014,Haibei,37.6,101.2,3200,-1.1,485,alpine meadow,Experiment 1,warm,Neutral phosphatase,P cycling,AP,mg phenol /g soil,0.86,,0.02,0.01,4,0.87,,0.02,0.01,4,Table 1,OTC
+Li2014,Maqu,36,101.9,3500,1.2,620,alpine meadow,Experiment 2,NP,Urease,N cycling,URE,ug/g/24h,11.52,,0.581377674,0.26,5,21.3,,3.532987404,1.58,5,Table 4,T30 g/m2
+Li2014,Maqu,36,101.9,3500,1.2,620,alpine meadow,Experiment 2,NP,Urease,N cycling,URE,ug/g/24h,11.52,,0.581377674,0.26,5,18.78,,5.9703015,2.67,5,Table 4,T60 g/m2
+Li2014,Maqu,36,101.9,3500,1.2,620,alpine meadow,Experiment 2,NP,Urease,N cycling,URE,ug/g/24h,11.52,,0.581377674,0.26,5,19.44,,7.200138888,3.22,5,Table 4,T90 g/m2
+Li2014,Maqu,36,101.9,3500,1.2,620,alpine meadow,Experiment 2,NP,Urease,N cycling,URE,ug/g/24h,11.52,,0.581377674,0.26,5,15.66,,6.708203932,3,5,Table 4,T120 g/m2
