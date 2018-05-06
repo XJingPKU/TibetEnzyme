@@ -1,6 +1,6 @@
 # R scripts to analyze soil EEAs in the Tibetan grasslands
 
-**Title:** Soil extracellular enzymes are not sensitive to a chaning envionment in the Tibetan grasslands  
+**Title:** Soil enzymatic responses to multiple environmental drivers in the Tibetan grasslands: Insights from two manipulative field experiments and a meta-analysis  
 
 **Authors:** Xin Jing, Xiao Chen, Wen Xiao, Li Lin, Chao Wang, Jin-Sheng He, Biao Zhu  
 
